@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "live_translator_flutter"
+		},
+		{
+			"name": "andik-2",
+			"path": "andik-2"
+		},
+		{
+			"name": "andik-1",
+			"path": "../andik-1"
+		}
+	],
+	"settings": {}
+}

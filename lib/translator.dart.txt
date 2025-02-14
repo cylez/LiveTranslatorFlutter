@@ -1,0 +1,5 @@
+String translate(String text, String fromLang, String toLang) {
+  if (text == "hello" && toLang == "es") return "hola";
+  if (text == "hello" && toLang == "fr") return "bonjour";
+  return "translation not found";
+}
